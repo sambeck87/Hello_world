@@ -66,5 +66,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [GNU](./LICENSE) licensed.# Hello_world
+This project is [GNU](./LICENSE.md) licensed.# Hello_world
 # Hello_world
