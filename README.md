@@ -66,5 +66,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE.md) licensed.# Hello_world
+This project is [MIT](./MIT.md) licensed.# Hello_world
 # Hello_world
